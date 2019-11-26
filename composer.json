@@ -10,16 +10,17 @@
         "protocol",
         "802.x"
     ],
-    "homepage": "http://bober.dtypt.cn/",
+    "homepage": "http://www.dtypt.cn/",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Bober",
+            "name": "bober",
             "email": "bober.l@foxmail.com"
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "workerman/workerman": "^4.0"
     },
     "require-dev": {
 
