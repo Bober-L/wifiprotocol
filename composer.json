@@ -10,11 +10,11 @@
         "protocol",
         "802.x"
     ],
-    "homepage": "http://bober.dtypt.cn/",
+    "homepage": "http://www.dtypt.cn/",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Bober",
+            "name": "bober",
             "email": "bober.l@foxmail.com"
         }
     ],
